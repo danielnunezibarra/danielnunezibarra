@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola a todos y todas 👋
+
+Este es mi repositorio de algunos trabajos personales
+
+Daniel Núñez
 
 <!--
 **danielnunezibarra/danielnunezibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
